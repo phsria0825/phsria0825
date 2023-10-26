@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Park.C.0's%20Github&fontSize=40&animation=fadeIn&fontAlignY=38&desc=MBTI:%20INTJ&descAlignY=51&descAlign=24)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Park.C.0's%20Github&fontSize=40&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=24)
 
 
 ## My portfolio
